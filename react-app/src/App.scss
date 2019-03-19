@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+
+  #top-part {
+    text-align: right;
+    padding: 10px;
+  }
+  
+  #sensor-modules-wrapper {
+    #sensor-modules-container {
+      border: 40px solid #fafafa;
+      margin: 40px;
+      padding: 20px;
+    }
+  }
+}
+
+.App-link {
+  color: #61dafb;
+}
