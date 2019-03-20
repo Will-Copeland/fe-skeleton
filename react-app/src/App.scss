@@ -1,9 +1,13 @@
 .App {
   text-align: center;
+  margin: 20px;
 
   #top-part {
     text-align: right;
-    padding: 10px;
+  }
+
+  h1 {
+    text-align: left;
   }
   
   #sensor-modules-wrapper {
