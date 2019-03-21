@@ -4,7 +4,7 @@ class TopBar extends Component {
   render() {
     return (
       <div id="top-part">
-        <small>Number of sensors on: 0</small>
+        <small>Number of sensors selected: 0/0</small>
       </div>
     );
   }
